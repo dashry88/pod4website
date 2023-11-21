@@ -1,1 +1,1 @@
-no license
+Unlicense
